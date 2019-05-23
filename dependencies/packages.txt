@@ -1,3 +1,4 @@
+applydeltarpm
 python
 python-setuptools
 python-backports

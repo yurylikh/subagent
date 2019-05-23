@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cat << EOF
-Hello!
+Container IP address is $(hostname -i).
 EOF
 
 /bin/bash
